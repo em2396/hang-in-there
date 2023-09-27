@@ -35,8 +35,8 @@ To get the app cloned down and running, you need to copy the link from github in
 
 ### Preview of App:
 [//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.)
-![Alt text] ![Alt text](<Screenshot 2023-09-01 at 3.21.36 PM.png>)
-
+![Hang-In-There]() 
+![Screenshot 2023-09-01 at 3 21 36 PM](https://user-images.githubusercontent.com/116819092/271017808-c2bc9d4e-7c62-4a9d-af6c-5ae6ac8b5417.png)
 
 ### Context:
 [//]: <> (Give some context for the project here. How long did you have to work on it? How far into the Turing program are you?)
